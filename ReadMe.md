@@ -1,9 +1,9 @@
 # Hi, i'm Kayo Duarte!
-Estudante Dev Full Stack<br> Estou a procura de um estágio na área<br>
+Student Dev Full Stack<br>I'm looking for internship in the area<br>
 
 <div style= "display: inline_block">
-  <img height = 180px src = https://github-readme-stats.vercel.app/api?username=kayocavalcantte&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false<br/>
-  <img  height = 180px src = https://github-readme-stats.vercel.app/api/top-langs/?username=kayocavalcantte&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact
+  <img height = 160px src = https://github-readme-stats.vercel.app/api?username=kayocavalcantte&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false<br/>
+  <img  height = 160px src = https://github-readme-stats.vercel.app/api/top-langs/?username=kayocavalcantte&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact
 </div>
 
 <div style="display: inline_block"><br>
