@@ -10,7 +10,6 @@ Student Dev Full Stack<br>I'm looking for internship in the area<br>
   <img align="center" alt="kayocavalcantte-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kayocavalcantte-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="kayocavalcantte-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="kayocavalcantte-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-plain.svg">
 </div>
 
 ##
