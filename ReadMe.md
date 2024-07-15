@@ -15,7 +15,7 @@ Student Dev Full Stack<br>I'm looking for internship in the area<br>
 ##
 Social Media:<br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kayocavalcantte) 
- <a href="www.linkedin.com/in/kayocavalcante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%2300599C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/kayocavalcante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%2300599C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
